@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+<project path="gittest/hardware/sm8250/display" name=LineageOS/android_hardware_qcom_audio revision="lineage-20.0-caf-sm8250"/>
+
+
+<manifest>
